@@ -1,0 +1,15 @@
+.travis.yml
+/.vscode/
+/test/
+/include/
+/lib/
+/.pio/libdeps/
+/.pio/build/*
+!/.pio/build/attiny2313/
+/.pio/build/attiny2313/*
+!/.pio/build/attiny2313/firmware.elf
+!/.pio/build/attiny2313/firmware.hex
+
+
+
+
